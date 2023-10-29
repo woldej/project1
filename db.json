@@ -1,0 +1,45 @@
+{
+    "motorbikes": [
+        {
+            "name": "boxer",
+            "image": "bike1.jpg",
+            "model": "150",
+            "description": "red in color with black strips"
+        },
+        {
+            "name": "ducati",
+            "image": "bike2.jpg",
+            "model": "170",
+            "description": "red with yellow stripes"
+        }
+        ,
+        {
+            "name": "tvs",
+            "image": "bike2.jpg",
+            "model": "180",
+            "description": "golden in color"
+        }
+        ,
+        {
+            "name": "Skygo",
+            "image": "bike2.jpg",
+            "model": "100",
+            "description": "black in color"
+        }
+        ,
+
+       { "name": "kawasaki",
+            "image": "bike2.jpg",
+            "model": "200",
+            "description": "blue in color"
+    }
+    ,
+{ "name": "suzuki",
+            "image": "bike2.jpg",
+            "model": "175",
+            "description": "purple in color"
+}
+
+
+    ]
+}
